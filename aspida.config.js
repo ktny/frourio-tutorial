@@ -1,4 +1,4 @@
 module.exports = {
-  input: "src/api",
+  input: "server/api",
   baseURL: "http://localhost:8888",
 };
